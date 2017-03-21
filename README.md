@@ -8,7 +8,7 @@ Le agrego una tercer línea
 Una linea desde la terminal
 
 <section id="principal">
-
+	Mi sección principal es genial
 </section>
 
 <section id="productos">
