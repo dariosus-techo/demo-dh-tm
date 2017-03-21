@@ -9,7 +9,7 @@ Una linea desde la terminal
 
 <section id="principal">
 	Mi sección principal es genial
-	Esto va desde gitkraken
+  Esto va desde los 2 <3
 </section>
 
 <section id="productos">
