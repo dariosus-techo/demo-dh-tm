@@ -12,5 +12,16 @@ Una linea desde la terminal
 </section>
 
 <section id="productos">
-
-</section
+  <article>
+    Producto
+  </article>
+  <article>
+    Producto
+  </article>
+  <article>
+    Producto
+  </article>
+  <article>
+    Producto
+  </article>
+</section>
